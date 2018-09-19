@@ -17,7 +17,7 @@ Die wesentlichen Unterschiede zu Subversion (SVN)
 
 (Zeile 9 bis 15 stammt aus dem LMS Kurs LA)
  
- ![Versionsverwaltung](https://www.google.com/search?q=versionsverwaltung&client=ubuntu&hs=pTM&channel=fs&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi_3dqxrsfdAhUQC-wKHUc4BcEQ_AUICygC&biw=1853&bih=821#imgrc=J9BhjeWrB4-leM:)
+ ![Versionsverwaltung](https://www.linux-user.de/ausgabe/2006/10/084-svn/prinzip.png)
  
  ### Installation von VirtualBox
  
